@@ -28,7 +28,7 @@
   "login_di": "https://alphabot-api.herokuapp.com",
   "apikey_alpha": "APIKEY LU", 
   
-  "login_di": "https://ronzxapis.herokuapp.com",
+  "login_di": "https://ronzxapis.my.id",
   "apikey_ronzz": "APIKEY LU",
  
  "login_di": "https://zenzapis.xyz",
