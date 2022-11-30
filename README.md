@@ -57,10 +57,10 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```
 
 ## Download Via MediaFire
-- [Download Script  Via MediaFire](https://youtu.be/lBh31zXSoJU)
+- [Download Script  Via MediaFire](https://youtu.be/ZJRuLQjkPmw)
 
 <p align="center">
-<a href="https://youtu.be/lBh31zXSoJU"><img src="https://telegra.ph/file/95fef3e690ae041ffd7fd.jpg" />
+<a href="https://youtu.be/ZJRuLQjkPmw"><img src="https://telegra.ph/file/c77eace39cb9c91de7081.jpg" />
 </p>
 
 ## Command For Termux
