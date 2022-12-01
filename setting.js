@@ -25,7 +25,7 @@
  "suka": "Lu suka apa? ",
  "benci": "Lu benci apa? ",
  
-  "login_di": "https://alphabot-api.herokuapp.com",
+  "login_di": "https://api.zeeoneofc.xyz",
   "apikey_alpha": "APIKEY LU", 
   
   "login_di": "https://ronzxapis.my.id",
